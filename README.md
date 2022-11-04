@@ -1,5 +1,5 @@
-# FileDecryption
-# Have you encrypted files or do you just want to change the extension of the files?
+# File Renamer
+# Have you files and you just want to change the extension of the files?
 
 ## Then you are very welcome to use this little program.
 

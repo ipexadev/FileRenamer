@@ -15,6 +15,6 @@ https://nodejs.org
 
 #### 4 Now open the Config.json.
 #### 5 Enter your folder under folder.
-#### 6 Enter the file extension that is to be removed at removefileextension. Make sure you write these with a period.
+#### 6 Enter the file extension that is to be removed at removefileextension. Make sure you write these with a ˋ.ˋ
 
 #### Now run `node index.js` and wait!
